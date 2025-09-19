@@ -3,7 +3,8 @@ A sweet, interactive HTML project made with love by **Vanshu** 🧸✨
 
 ## 💌 Description
 
-**Digital Love Letter** is a cute, playful webpage that delivers a hidden message of love.  
+**Digital Love Letter** is a cute, playful webpage that delivers a hidden message of love
+
 Complete with a floating teddy bear, secret password gate, animated hearts, and background music – this project is all about charming surprises and emotional expression through code.
 
 > _“Click the teddy to unlock the love...”_
